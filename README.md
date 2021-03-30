@@ -30,7 +30,7 @@ $ pip install requests
 ```
 To make it easier I have attached the requirments.txt file from which all required libraries can be installed at once.
 ```
-python -m pip install -r requirments.txt
+$ python -m pip install -r requirments.txt
 ```
 
 Now you are good to go. Having knowledge on requests library, tkinter module and general usage of json is an added benefit but you can use google for any need as I did.
