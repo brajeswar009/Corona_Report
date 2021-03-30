@@ -13,7 +13,7 @@
 * [Contact](#contact)
 
 ## General info
-This project is completely build with python. This uses the api provided by this amazing website [https://corona.lmao.ninja/](https://corona.lmao.ninja/) to fetch real-time covid-19 details.
+This project is completely build with python. This uses the api provided by this amazing website [https://corona.lmao.ninja/](https://corona.lmao.ninja/) to fetch real-time covid-19 details and parses that json data to display the necessary details in a human readable format.
 	
 ## Technologies
 Project is created with:
